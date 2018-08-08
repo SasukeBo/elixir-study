@@ -13,11 +13,7 @@
 * [字符串与二进制型](notes/第11章.字符串与二进制型.md)
 * [控制流](notes/第12章.控制流.md)
 * [组织项目](notes/第13章.组织项目.md)
-* [Elixir_Agents](notes/OTP/Elixir_Agents.md)
-* [Elixir_GenServer](notes/OTP/Elixir_GenServer.md)
-* [Supervisor](notes/OTP/Module_Supervisor.md)
-* [Supervisor_And_Application](notes/OTP/Supervisor_And_Application.md)
-* [Dynamic_supervisors](notes/OTP/Dynamic_supervisors.md)
+* [Elixir OTP相关知识](notes/OTP)
 
 
 ## 练习代码和部分示例代码
