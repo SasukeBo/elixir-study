@@ -13,7 +13,7 @@
 * [字符串与二进制型](notes/第11章.字符串与二进制型.md)
 * [控制流](notes/第12章.控制流.md)
 * [组织项目](notes/第13章.组织项目.md)
-* [Elixir OTP相关知识](notes/OTP)
+* [Elixir OTP相关知识](notes/OTP/README.md)
 
 
 ## 练习代码和部分示例代码
